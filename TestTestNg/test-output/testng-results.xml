@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13843" started-at="2019-01-22T12:07:23Z" finished-at="2019-01-22T12:07:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13843" started-at="2019-01-22T12:07:23Z" finished-at="2019-01-22T12:07:37Z">
+      <class name="TestNG.BankTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNG.BankTest@d2cc05a]" name="beforeTest" is-config="true" duration-ms="5757" started-at="2019-01-22T17:37:23Z" finished-at="2019-01-22T17:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Print_List_Of_BankNames_And_SwiftCode()[pri:0, instance:TestNG.BankTest@d2cc05a]" name="Print_List_Of_BankNames_And_SwiftCode" duration-ms="5891" started-at="2019-01-22T17:37:29Z" finished-at="2019-01-22T17:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print_List_Of_BankNames_And_SwiftCode -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNG.BankTest@d2cc05a]" name="afterTest" is-config="true" duration-ms="2168" started-at="2019-01-22T17:37:35Z" finished-at="2019-01-22T17:37:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestNG.BankTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
